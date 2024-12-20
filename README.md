@@ -1,6 +1,10 @@
 # About Me
 
-Hello! I'm Marcos, a highly motivated researcher, passionate about unveiling mysteries, solving puzzles, and finding patterns. My work bridges multiple disciplines, focusing on solutions in data analysis and computational simulations. Driven by challenges and motivated by problem-solving, I continually seek opportunities to expand my knowledge and skills. Thank you for visiting my GitHub profile. I invite you to explore my projects and publications. Feel free to contribute to my repositories or discuss potential collaborations.
+Hello! I'm Marcos, I am a multidisciplinary researcher specializing in computational modeling and data science. My work bridges fields such as applied/medical physics, the modeling of biological systems, and bioinformatics, with a focus on integrating single-cell RNA sequencing (scRNA-seq) and other omics data. Driven by challenges and motivated by problem-solving, I continually seek opportunities to expand my knowledge and skills. By combining diverse techniques—including unsupervised machine learning methods like dimensionality reduction and clustering, exploring the possibilities of supervised machine learning approaches, and statistical analysis to test hypotheses—I analyze complex systems, uncover patterns, and develop scalable, efficient solutions.
+
+In addition, I apply network theory and (stochastic) dynamic modeling to study the behavior of biological systems over time, offering deeper insights into their stability, multistability, and transitions between states. This interdisciplinary foundation enables me to tackle challenges with a systematic approach: immersing myself in the problem, exploring possibilities, and implementing innovative strategies.
+
+Thank you for visiting my GitHub profile. Feel free to explore my projects and publications, contribute to my repositories, or reach out to discuss potential collaborations.
 
 # Projects
 
@@ -16,7 +20,7 @@ Hello! I'm Marcos, a highly motivated researcher, passionate about unveiling mys
   - Tools: R, Wolfram Mathematica, Python
   - Focus: Glioblastoma Multiforme, GRN dynamics, dimensionality reduction, clustering, stochastic modeling, and time series.
   - **Articles:**
-    - Junior, M.G.V.; Côrtes, A.M.d.A.; Carneiro, F.R.G.; Carels, N.; Silva, F.A.B.d. A method for in silico exploration of potential Glioblastoma Multiforme attractors using single-cell RNA sequencing. *Under peer review at Scientific Reports*. [(repo)](https://github.com/marcosgvjunior/Biomarker-Guided-scRNA-Seq-Cancer-Attractor-Analysis)
+    - Junior, M.G.V.; Côrtes, A.M.d.A.; Carneiro, F.R.G.; Carels, N.; Silva, F.A.B.d. A method for in silico exploration of potential Glioblastoma Multiforme attractors using single-cell RNA sequencing. *Under peer review at Scientific Reports*. [(repo)](https://github.com/marcosgvjunior/Biomarker-Guided-scRNA-Seq-Cancer-Attractor-Analysis)[https://www.nature.com/articles/s41598-024-74985-2](https://www.nature.com/articles/s41598-024-74985-2)
     - Junior, M.G.V.; Côrtes, A.M.d.A.; Carneiro, F.R.G.; Carels, N.; Silva, F.A.B.d. Unveiling the Dynamics behind Glioblastoma Multiforme Single-Cell Data Heterogeneity. *Int. J. Mol. Sci.* 2024, 25, 4894. [https://doi.org/10.3390/ijms25094894](https://doi.org/10.3390/ijms25094894)
     - Carels, N.; Sgariglia, D.; Junior, M.G.V.; Lima, C.R.; Carneiro, F.R.G.; Silva, G.F.d.; Silva, F.A.B.d.; Scardini, R.; Tuszynski, J.A.; Andrade, C.V.d.; et al. A Strategy Utilizing Protein–Protein Interaction Hubs for the Treatment of Cancer Diseases. *Int. J. Mol. Sci.* 2023, 24, 16098. [https://doi.org/10.3390/ijms242216098](https://doi.org/10.3390/ijms242216098)
   - **Code Repositories:**
@@ -78,11 +82,18 @@ Hello! I'm Marcos, a highly motivated researcher, passionate about unveiling mys
   <summary>Show Skills</summary>
 
 - **Programming Languages:** R, Python, C/C++, bash script, Shell, Linux, SQL
-- **Libraries/Frameworks (Python):** NumPy, Pandas, Scikit-learn, PyTorch, XGBoost, SciPy, SymPy, ...
+- **Libraries/Frameworks (Python):** NumPy, Pandas, Scikit-learn, SciPy, SymPy, PyTorch, XGBoost, ...
 - **Libraries/Frameworks (R):** Tidyverse, Bioconductor, Seurat, limma, ...
 - **Libraries/Frameworks (C++):** ROOT (Data Analysis Framework)
 - **Tools:** Google Colab, Wolfram Mathematica, Git, GitHub, Power BI
 - **Techniques:** Statistical analysis, algebra, mathematical modeling, stochastic simulation, time series analysis, machine learning, dimensionality reduction, clustering, logistic regression, predictive analytics, software testing, database design
+
+**Observations:**
+- *Some skills are at an early stage*, e.g., SQL, PyTorch, XGBoost, Power BI, predictive analytics, software testing, and database design.
+- *In general, all Python frameworks are being actively practiced* to deepen my knowledge.
+
+**Additional Information:**
+- **See ongoing DataCamp courses and certifications** for under-development skills and **projects for actively used skills**. For more information, feel free to contact me.
 
 </details>
 
