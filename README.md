@@ -4,6 +4,8 @@ Hello! I'm Marcos, I am a multidisciplinary researcher specializing in computati
 
 In addition, I apply network theory and (stochastic) dynamic modeling to study the behavior of biological systems over time, offering deeper insights into their stability, multistability, and transitions between states. This interdisciplinary foundation enables me to tackle challenges with a systematic approach: I learn what I must know, immerse myself in the problem, explore the possibilities, think deeply about each interpretation, prepare a plan, and execute the necessary steps to get to the solution—ultimately implementing innovative strategies.
 
+Beyond my professional skills, I have a strong interest in reading about a wide range of topics, including philosophy, psychology, and self-improvement, among others. These subjects help me grow both personally and professionally. I also enjoy activities that nurture my creativity and balance, like listening to music, spending time in nature, and expressing myself through art. Staying active is important to me, as it helps maintain both my body and mind healthy and in motion. I do this through regular exercise, and I also enjoy relaxing with games like chess or watching a good sci-fi show.
+
 Thank you for visiting my GitHub profile. Feel free to explore my projects and publications, contribute to my repositories, or reach out to discuss potential collaborations.
 
 # Projects
