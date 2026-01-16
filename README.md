@@ -1,9 +1,9 @@
 # About Me 
-### LLM Researcher | Data Science & Bioinformatics Specialist | Data Intelligence Advisor (+ Jr Software Dev)
+### Applied AI Researcher & Data Specialist | Software Engineer | Problem Analyst | Consulting & Advisory
 
-I work with end-to-end LLM-driven pipelines, software development, and data science solutions (from modeling to visualization) to drive data intelligence and actionable insights. I hold a background in applied/medical physics, computational biology, and bioinformatics. In my current postdoctoral research at the National Laboratory for Scientific Computing (LNCC), I develop and optimize large language model (LLM) pipelines for bioinformatics on high-performance computing (HPC) clusters.
+I worked with end-to-end LLM-driven pipelines, software development, and data science solutions (from modeling to visualization) to drive data intelligence and actionable insights. I hold a background in applied/medical physics, computational biology, and bioinformatics. In my previous postdoctoral research at the National Laboratory for Scientific Computing (LNCC), I developed and optimized large language model (LLM) pipelines for bioinformatics on high-performance computing (HPC) clusters.
 
-I contribute to an existing codebase; I design end-to-end performance-evaluation workflows, selecting evaluation metrics to assess LLM performance across model architectures, hyperparameter configurations, and retrieval-augmented generation (RAG) methods (evaluating vector databases, similarity search, and various embedding strategies).
+I contributed to an existing codebase; I designed end-to-end performance-evaluation workflows, selecting evaluation metrics to assess LLM performance across model architectures, hyperparameter configurations, and retrieval-augmented generation (RAG) methods (evaluating vector databases, similarity search, and various embedding strategies).
 
 I also architect and automate data-intelligence solutions across my research and development projects (e.g., scripting in Bash/Python/C++/R to iterate database and file-parameter combinations, orchestrating LLM runs, prototyping APIs and business-rule adjustments), generating targeted visualizations for interpretation, insight extraction, and performance optimization, and leading interpretation sessions to advise on diagnostic metrics and future pipeline enhancements.
 
