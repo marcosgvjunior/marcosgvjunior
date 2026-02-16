@@ -13,7 +13,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 
 ## Highlights (start here)
 
-- **Operational AI Field Notes (WIP)** — applied AI experiments + technical write-ups  
+- **Operational AI Field Notes (active portfolio track)** — applied AI experiments + technical write-ups  
   https://github.com/marcosgvjunior/operational-ai-field-notes
 - **GBM scRNA-seq attractor analysis (open-source + papers)**  
   https://github.com/marcosgvjunior/Biomarker-Guided-scRNA-Seq-Cancer-Attractor-Analysis
