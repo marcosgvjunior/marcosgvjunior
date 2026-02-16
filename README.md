@@ -1,58 +1,110 @@
 # About Me 
-### Applied AI Researcher & Data Specialist | Software Engineer | Problem Analyst | Consulting & Advisory
+### Applied AI and Data | Software Engineer | End-to-end analytics, automation, and decision support
 
-I worked with end-to-end LLM-driven pipelines, software development, and data science solutions (from modeling to visualization) to drive data intelligence and actionable insights. I hold a background in applied/medical physics, computational biology, and bioinformatics. In my previous postdoctoral research at the National Laboratory for Scientific Computing (LNCC), I developed and optimized large language model (LLM) pipelines for bioinformatics on high-performance computing (HPC) clusters.
+I build end-to-end data and software systems to solve complex problems, from experimentation and modeling to automation, visualization, and production-minded software. My work emphasizes metric-driven evaluation of multimodal data, turning results into clear operational workflows.
 
-I contributed to an existing codebase; I designed end-to-end performance-evaluation workflows, selecting evaluation metrics to assess LLM performance across model architectures, hyperparameter configurations, and retrieval-augmented generation (RAG) methods (evaluating vector databases, similarity search, and various embedding strategies).
+I’ve built reproducible pipelines across three applied tracks: (1) sensor-based measurements and uncertainty-driven analysis, (2) high-dimensional bioinformatics and single-cell RNA sequencing (scRNA-seq), using dimensionality reduction, clustering, and statistical validation, and (3) evaluation workflows for LLM (large language model) + RAG (retrieval-augmented generation) pipelines in HPC (high-performance computing) environments, running metrics-driven experiments and benchmarking configurations (chunking, embeddings, retrieval strategies). I received the Oswaldo Cruz Institute (IOC) Annual Thesis Prize (2025), and published peer-reviewed papers, including first-author work.
 
-I also architect and automate data-intelligence solutions across my research and development projects (e.g., scripting in Bash/Python/C++/R to iterate database and file-parameter combinations, orchestrating LLM runs, prototyping APIs and business-rule adjustments), generating targeted visualizations for interpretation, insight extraction, and performance optimization, and leading interpretation sessions to advise on diagnostic metrics and future pipeline enhancements.
-
-In prior projects, I applied statistical modeling, dimensionality reduction, clustering, and optimization techniques to extract insights from complex datasets such as single-cell RNA sequencing (scRNA-seq). Network theory and stochastic dynamics were leveraged to study system stability and transitions.
+Currently, I’m translating this background into practical, reproducible portfolio projects across applied AI (computer vision, NLP (natural language processing), and classical ML), data analytics, software engineering, and data engineering (data warehouse and data lake), with technical write-ups and public repos focused on real-world workflows and delivery. I’m also deepening my engineering practice through a software engineering specialization.
 
 My work is driven by curiosity and a systematic approach, which involves understanding the problem, exploring solutions, testing hypotheses, and implementing effective strategies. I am always eager to expand my knowledge and integrate insights from various fields to approach problems in innovative and creative ways. In addition to my professional skills, I have a strong interest in reading about a wide range of topics, including philosophy, psychology, and self-improvement, among others. I also enjoy activities that nurture my creativity and balance, like listening to music, spending time in nature, and expressing myself through art. Staying active is important to me, as it helps maintain both my body and mind healthy and in motion. I do this through regular exercise, and I also enjoy relaxing with games like chess or watching a good sci-fi show.
 
 Thank you for visiting my GitHub profile. Feel free to explore my projects and publications, contribute to my repositories, or reach out to discuss potential collaborations.
 
+## Highlights (start here)
+
+- **Operational AI Field Notes (WIP)** — applied AI experiments + technical write-ups  
+  https://github.com/marcosgvjunior/operational-ai-field-notes
+- **GBM scRNA-seq attractor analysis (open-source + papers)**  
+  https://github.com/marcosgvjunior/Biomarker-Guided-scRNA-Seq-Cancer-Attractor-Analysis
+- **Timepix pixel-detector pipelines (simulation + reconstruction + validation)**  
+  https://github.com/marcosgvjunior/clustering-code-for-pixel-detectors
+
+<details>
+  <summary><b>Education</b></summary>
+
+- **Software Engineering Specialization (in progress, 2025–present)** — PUC-Rio (CCEC)
+- **Ph.D. in Computational and Systems Biology (2020–2024)** — Oswaldo Cruz Institute (IOC/Fiocruz)
+- **M.Sc. in Interdisciplinary Applied Physics (2018–2020)** — Federal University of Rio de Janeiro (UFRJ)
+- **B.Sc. in Medical Physics(2018)** — Federal University of Rio de Janeiro (UFRJ)
+
+</details>
+
+<details>
+  <summary><b>Awards & Selected Publications</b></summary>
+
+- **Oswaldo Cruz Institute (IOC) Annual Thesis Prize (Alexandre Peixoto Award)** — 2025
+- **Scientific Reports (2024)**: https://www.nature.com/articles/s41598-024-74985-2  
+- **Int. J. Mol. Sci. (2024)**: https://doi.org/10.3390/ijms25094894  
+- **Int. J. Mol. Sci. (2023)**: https://doi.org/10.3390/ijms242216098  
+- **Rev Bras Fis Med (2018)**: https://doi.org/10.29384/rbfm.2018.v12.n3.p21-25  
+
+</details>
+
 # Projects
 
 <details>
-  <summary>Show Projects</summary>
+  <summary><b>Show Projects</b></summary>
 
-## Current Research Projects
+## Portfolio / Consulting (Applied AI, Data, and Software)
 
 <details>
-  <summary>Show Current Projects</summary>
+  <summary><b>Show Portfolio / Consulting</b></summary>
 
-- **Integrating scRNA-seq Data into a Gene Regulatory Network Dynamics Model**
-  - Tools: R, Wolfram Mathematica, Python
-  - Focus: Glioblastoma Multiforme, GRN dynamics, dimensionality reduction, clustering, stochastic modeling, and time series.
-  - **Articles:**
-    - Junior, M.G.V.; Côrtes, A.M.d.A.; Carneiro, F.R.G.; Carels, N.; Silva, F.A.B.d. A method for in silico exploration of potential Glioblastoma Multiforme attractors using single-cell RNA sequencing. *Under peer review at Scientific Reports*. [(repo)](https://github.com/marcosgvjunior/Biomarker-Guided-scRNA-Seq-Cancer-Attractor-Analysis)[https://www.nature.com/articles/s41598-024-74985-2](https://www.nature.com/articles/s41598-024-74985-2)
-    - Junior, M.G.V.; Côrtes, A.M.d.A.; Carneiro, F.R.G.; Carels, N.; Silva, F.A.B.d. Unveiling the Dynamics behind Glioblastoma Multiforme Single-Cell Data Heterogeneity. *Int. J. Mol. Sci.* 2024, 25, 4894. [https://doi.org/10.3390/ijms25094894](https://doi.org/10.3390/ijms25094894)
-    - Carels, N.; Sgariglia, D.; Junior, M.G.V.; Lima, C.R.; Carneiro, F.R.G.; Silva, G.F.d.; Silva, F.A.B.d.; Scardini, R.; Tuszynski, J.A.; Andrade, C.V.d.; et al. A Strategy Utilizing Protein–Protein Interaction Hubs for the Treatment of Cancer Diseases. *Int. J. Mol. Sci.* 2023, 24, 16098. [https://doi.org/10.3390/ijms242216098](https://doi.org/10.3390/ijms242216098)
-  - **Code Repositories:**
+- **Operational AI Field Notes (active portfolio track)**
+  - Focus: practical, reproducible experiments across applied AI (computer vision, NLP, classical ML), plus technical write-ups and operational evaluation notes.
+  - Repo: https://github.com/marcosgvjunior/operational-ai-field-notes
+  - Tools and environment: Python, Git/GitHub, Linux; task-specific libraries and frameworks as needed (e.g., PyTorch, scikit-learn, OpenCV, NLP tooling).
+  - Keywords: applied AI experiments, evaluation and failure modes, reproducible workflows, technical write-ups, delivery-oriented practice.
+
+- **Formless Solutions (ongoing)**
+  - Focus: end-to-end analytics, automation, and decision support; applied AI + software delivery.
+  - Link: https://www.formlesssolutions.com/
+  - Tools and environment: Python-first; also R and C/C++ when relevant; Bash, Git/GitHub, Linux; SQL and data tooling when needed; Docker and deployment tooling when applicable; and other tools required by delivery constraints.
+  - Keywords: analytics automation, decision support, metric-driven evaluation, data pipelines, applied ML, software engineering, reproducibility, documentation, web/API delivery.
+
+</details>
+
+## Industry / Applied Research Engineering
+
+<details>
+  <summary><b>Show Industry / Applied Research Engineering</b></summary>
+
+- **LNCC (Feb 2025 to Aug 2025) — Evaluation workflows for LLM + RAG pipelines in HPC environments**
+  - Focus: metrics-driven evaluation and benchmarking of retrieval configurations in HPC settings.
+  - Topics: chunking strategies, embedding models, similarity mechanisms, retrieval strategies, systematic experiment tracking, reproducibility.
+  - Tools: Python, Linux, Git, SLURM, Streamlit, vector databases (ChromaDB, Milvus, Weaviate, Qdrant).
+  - Keywords: HPC/SLURM, LLM/RAG evaluation, embeddings and similarity search, benchmarking, vector databases, reproducible experiments.
+
+</details>
+
+## Research Engineering Projects (peer-reviewed + open source)
+
+<details>
+  <summary><b>Show Research Engineering Projects</b></summary>
+
+- **Biomarker-guided scRNA-seq Cancer Attractor Analysis (Glioblastoma Multiforme (GBM) case study)**
+  - Tools: Wolfram Mathematica, Python, R
+  - Focus: scRNA-seq pipelines (high-dimensional data), dimensionality reduction, clustering + validation, multivariate / elliptical statistics (confidence regions), and stability-oriented analysis in gene regulatory networks (GRNs).
+  - Publications:
+    - Scientific Reports (2024): https://www.nature.com/articles/s41598-024-74985-2
+    - Int. J. Mol. Sci. (2024): https://doi.org/10.3390/ijms25094894
+    - Int. J. Mol. Sci. (2023): https://doi.org/10.3390/ijms242216098
+    - [PhD Thesis (IOC/Fiocruz, 2024) — In Silico Methodology for Investigating the Presence of Cancer Attractors: A Case Study on Glioblastoma Multiforme](https://arca.fiocruz.br/handle/icict/68876)
+  - Code Repositories:
     - [Gene Expression Network Analysis](https://github.com/marcosgvjunior/gene-expression-network-analysis)
     - [Biomarker-Guided scRNA-Seq Cancer Attractor Analysis](https://github.com/marcosgvjunior/Biomarker-Guided-scRNA-Seq-Cancer-Attractor-Analysis)
     - [scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python](https://github.com/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python)
     - [graph-matrix-and-combinatorics](https://github.com/marcosgvjunior/graph-matrix-and-combinatorics)
 
-</details>
-
-## Past Research Projects
-
-<details>
-  <summary>Show Past Projects</summary>
-
-- **Determining Photon Beam Energy Spectra for Radiotherapy Using a Pixel Detector**
-  - Tools: Geant4/C++, ROOT library
-  - Focus: Reconstruction of the spectrum of a clinical linear accelerator (Clinac), energy calibration, data visualization.
-
-  - **Works/Articles:**
-    - Vieira, M. G.; Marinho, F.; Amato, S.; Polycarpo, E. Estudo De Viabilidade De determinação De Espectros De Energia De Feixes De fótons Para Radioterapia Usando Um Detector De Pixels. *Rev Bras Fis Med* 2018, 12, 21-25. [https://doi.org/10.29384/rbfm.2018.v12.n3.p21-25](https://doi.org/10.29384/rbfm.2018.v12.n3.p21-25)
-    - [Master's Dissertation](https://www.if.ufrj.br/wp-content/uploads/2020/11/Dissertacao_Marcos_Vieira_IF_FisAplic_UFRJ_final_ficha.pdf).
-    - [Bachelor's Thesis](https://pantheon.ufrj.br/bitstream/11422/5757/1/TCC_Marcos_Vieira_IF-FISMED.pdf).
-
-  - **Code Repositories:**
+- **Photon beam energy spectra reconstruction for radiotherapy using a pixel detector (Timepix 256×256)**
+  - Tools: C/C++, ROOT, GEANT4, PENELOPE, Python
+  - Focus: calibration + EDA of pixel-level data, response-matrix simulation, deconvolution (inverse problem), Gaussian fits, chi-square based validation (multiparameter comparisons), and feasibility analysis via PDD curves.
+  - Works/Articles:
+    - Rev Bras Fis Med (2018): https://doi.org/10.29384/rbfm.2018.v12.n3.p21-25
+    - [Master's Dissertation](https://www.if.ufrj.br/wp-content/uploads/2020/11/Dissertacao_Marcos_Vieira_IF_FisAplic_UFRJ_final_ficha.pdf)
+    - [Bachelor's Thesis](https://pantheon.ufrj.br/bitstream/11422/5757/1/TCC_Marcos_Vieira_IF-FISMED.pdf)
+  - Code Repositories:
     - [Percentage Depth Dose Algorithm](https://github.com/marcosgvjunior/Percentage-Depth-Dose-Algorithm)
     - [Clustering Code for Pixel Detectors](https://github.com/marcosgvjunior/clustering-code-for-pixel-detectors)
     - [ROOT-multi-files-analysis](https://github.com/marcosgvjunior/ROOT-multi-files-analysis)
@@ -63,7 +115,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 ## Repositories for Extra Projects
 
 <details>
-  <summary>Show Repositories</summary>
+  <summary><b>Show Repositories</b></summary>
 
 - [ML-project_UERJ-course](https://github.com/marcosgvjunior/ML-project_UERJ-course)
 - [accelerometerJM](https://github.com/marcosgvjunior/accelerometerJM)
@@ -73,7 +125,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 ## Repositories for Educational Projects
 
 <details>
-  <summary>Show Repositories</summary>
+  <summary><b>Show Repositories</b></summary>
 
 - [Bidimensional First-Order Dynamical Systems](https://github.com/marcosgvjunior/Bidimensional-FirstOrder-Dynamical-Systems)
 - [Interpolation Methods Overview](https://github.com/marcosgvjunior/Interpolation-Methods-Overview)
@@ -83,84 +135,15 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 
 </details>
 
-# Skills
+# Training
 
 <details>
-  <summary>Show Skills</summary>
+  <summary><b>Show training and coursework</b></summary>
 
-- **Programming Languages:** R, Python, C/C++, bash script, Shell, Linux, SQL
-- **Libraries/Frameworks (Python):** NumPy, Pandas, Scikit-learn, SciPy, SymPy, PyTorch, XGBoost, ...
-- **Libraries/Frameworks (R):** Tidyverse, Bioconductor, Seurat, limma, ...
-- **Libraries/Frameworks (C++):** ROOT (Data Analysis Framework)
-- **Tools:** Google Colab, Wolfram Mathematica, Git, GitHub, Power BI
-- **Techniques:** Statistical analysis, algebra, mathematical modeling, stochastic simulation, time series analysis, machine learning, dimensionality reduction, clustering, logistic regression, predictive analytics, software testing, database design
-
-**Observations:**
-- *Some skills are at an early stage*, e.g., SQL, PyTorch, XGBoost, Power BI, predictive analytics, software testing, and database design.
-- *In general, all Python frameworks are being actively practiced* to deepen my knowledge.
-
-**Additional Information:**
-- **See ongoing DataCamp courses and certifications** for under-development skills and **projects for actively used skills**. For more information, feel free to contact me.
-
-</details>
-
-# Courses/Certifications
-
-<details>
-  <summary>Show Courses/Certifications</summary>
-
-### Machine Learning & Data Science
-
-- **Machine Learning for Time Series Data in Python** - DataCamp (Issued May 2024)
-- **Cluster Analysis in Python** - DataCamp (Issued Apr 2024)
-- **Feature Engineering for Machine Learning in Python** - DataCamp (Issued Apr 2024)
-- **Preprocessing for Machine Learning in Python** - DataCamp (Issued Apr 2024)
-- **Dimensionality Reduction in Python** - DataCamp (Issued Mar 2024)
-- **Extreme Gradient Boosting with XGBoost** - DataCamp (Issued Mar 2024)
-- **Linear Classifiers in Python** - DataCamp (Issued Mar 2024)
-- **Machine Learning with Tree-Based Models in Python** - DataCamp (Issued Mar 2024)
-- **Unsupervised Learning in Python** - DataCamp (Issued Mar 2024)
-- **Supervised Learning with scikit-learn** - DataCamp (Issued Dec 2023)
-- **Introduction to Predictive Analytics in Python** - DataCamp (Issued Mar 2023)
-- **Intermediate Deep Learning with PyTorch** - DataCamp (Issued Dec 2023)
-- **Introduction to Deep Learning with PyTorch** - DataCamp (Issued Nov 2023)
-
-### Programming & Software Engineering
-
-- **Object-Oriented Programming in Python** - DataCamp (Issued Mar 2024)
-- **Software Engineering Principles in Python** - DataCamp (Issued Mar 2024)
-- **Unit Testing for Data Science in Python** - DataCamp (Issued Mar 2024)
-- **Introduction to Testing in Python** - DataCamp (Issued Mar 2024)
-- **Writing Efficient Code with pandas** - DataCamp (Issued Mar 2024)
-- **Writing Efficient Python Code** - DataCamp (Issued Mar 2024)
-- **Writing Functions in Python** - DataCamp (Issued Mar 2024)
-- **Python Data Science Toolbox (Part 2)** - DataCamp (Issued Dec 2023)
-- **Python Data Science Toolbox (Part 1)** - DataCamp (Issued Nov 2023)
-
-### Data Manipulation & Analysis
-
-- **Reshaping Data with pandas** - DataCamp (Issued Mar 2024)
-- **Data Manipulation with pandas** - DataCamp (Issued Aug 2023)
-- **Joining Data with pandas** - DataCamp (Issued Aug 2023)
-
-### Databases & SQL
-
-- **Database Design** - DataCamp (Issued Apr 2024)
-- **Introduction to Relational Databases in SQL** - DataCamp (Issued Apr 2024)
-- **Introduction to SQL** - DataCamp (Issued Nov 2023)
-
-### Specialized Topics
-
-- **Analyzing IoT Data in Python** - DataCamp (Issued Feb 2024)
-- **Streaming Concepts** - DataCamp (Issued Feb 2024)
-- **MLOps Concepts** - DataCamp (Issued Jan 2024)
-- **Introduction to Power BI** - DataCamp (Issued Nov 2023)
-
-### Bioinformatics
-
-- **Differential Expression Analysis with limma in R** - DataCamp (Issued Feb 2021)
-- **RNA-Seq with Bioconductor in R** - DataCamp (Issued Feb 2021)
-- **Single-Cell RNA-Seq with Bioconductor in R** - DataCamp (Issued Feb 2021)
+- **Software Engineering specialization (PUC-Rio, CCEC)**: Sprint 0 completed (HTML/CSS/JavaScript foundations plus relational database fundamentals and SQL); Python OOP + SOLID + Clean Code; database design (conceptual to physical) + SQL and distributed/NoSQL; full-stack fundamentals (MVC, HTTP, Python APIs, HTML/CSS/JS, delivery environments); agile (Scrum, DevOps, continuous experimentation, requirements, UI prototyping); architecture (microservices + cloud); quality/testing + secure development + intelligent software systems, with MVP projects (in progress).
+- **Advanced Analytics (PUC-Rio)** — neural network frameworks (PyTorch/TensorFlow), applied computer vision (detection, segmentation, face recognition, generative models), and applied NLP (vectorization, embeddings, similarity, and baseline pipelines) (completed).
+- **Data Warehouse & Data Lake course** — dimensional modeling and implementation concepts, NoSQL and Big Data foundations, and ingestion/ETL-style workflows for data lakes (completed).
+- **DataCamp certificates** — available upon request (kept out of the main page to avoid noise).
 
 </details>
 
