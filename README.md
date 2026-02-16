@@ -142,7 +142,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 
 - **Software Engineering specialization (PUC-Rio, CCEC)**: Sprint 0 completed (HTML/CSS/JavaScript foundations plus relational database fundamentals and SQL); Python OOP + SOLID + Clean Code; database design (conceptual to physical) + SQL and distributed/NoSQL; full-stack fundamentals (MVC, HTTP, Python APIs, HTML/CSS/JS, delivery environments); agile (Scrum, DevOps, continuous experimentation, requirements, UI prototyping); architecture (microservices + cloud); quality/testing + secure development + intelligent software systems, with MVP projects (in progress).
 - **Advanced Analytics (PUC-Rio)** — neural network frameworks (PyTorch/TensorFlow), applied computer vision (detection, segmentation, face recognition, generative models), and applied NLP (vectorization, embeddings, similarity, and baseline pipelines) (completed).
-- **Data Warehouse & Data Lake course** — dimensional modeling and implementation concepts, NoSQL and Big Data foundations, and ingestion/ETL-style workflows for data lakes (completed).
+- **Data Warehouse & Data Lake course (PUC-Rio)** — DW/BI modeling (OLTP vs OLAP, data marts, star schema), NoSQL + Big Data (key-value/document/column/graph; MongoDB + Neo4j/Cypher), and a hands-on Hadoop/Spark Data Lake lab (HDFS ingestion, Hive/HiveQL tables, MapReduce vs Spark execution, Spark SQL) (completed).
 - **DataCamp certificates** — available upon request (kept out of the main page to avoid noise).
 
 </details>
