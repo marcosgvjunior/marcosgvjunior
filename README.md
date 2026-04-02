@@ -1,5 +1,4 @@
 # About Me 
-### Applied AI and Data | Software Engineer | End-to-end analytics, automation, and decision support
 
 I build end-to-end data and software systems to solve complex problems, from experimentation and modeling to automation, visualization, and production-minded software. My work emphasizes metric-driven evaluation of multimodal data, turning results into clear operational workflows.
 
