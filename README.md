@@ -12,6 +12,9 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 
 ## Highlights (start here)
 
+- **The Tavern's Ledger (full-stack software engineering MVP)** — A practical, full-stack cataloging system built to demonstrate the entire software engineering lifecycle. Features a RESTful API backend (Python/Flask) and a dynamic SPA frontend (vanilla JS/HTML/CSS), with a strong emphasis on documentation, high-coverage testing, CI/CD, and Docker containerization.
+  - **Backend Repo:** https://github.com/marcosgvjunior/the-taverns-ledger-backend
+  - **Frontend Repo:** https://github.com/marcosgvjunior/the-taverns-ledger-frontend
 - **Operational AI Field Notes (active portfolio track)** — applied AI experiments + technical write-ups  
   https://github.com/marcosgvjunior/operational-ai-field-notes
 - **GBM scRNA-seq attractor analysis (open-source + papers)**  
@@ -49,6 +52,14 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 
 <details>
   <summary><b>Show Portfolio / Consulting</b></summary>
+
+- **The Tavern's Ledger (full-stack software engineering MVP)**
+  - Focus: Demonstrates a complete, end-to-end software development lifecycle, from initial requirements in a software engineering specialization to a deployed, two-part application. Emphasizes clean architecture, API design, CI/CD, and robust documentation.
+  - Repos:
+    - **Backend:** https://github.com/marcosgvjunior/the-taverns-ledger-backend
+    - **Frontend:** https://github.com/marcosgvjunior/the-taverns-ledger-frontend
+  - Tools and environment: Python, Flask, Vanilla JavaScript, HTML/CSS, Docker, Pytest, GitHub Actions, RESTful API design, SPA (Single-Page Application).
+  - Keywords: full-stack, software engineering, MVP, REST API, SPA, documentation, CI/CD, testing, Python, JavaScript.
 
 - **Operational AI Field Notes (active portfolio track)**
   - Focus: practical, reproducible experiments across applied AI (computer vision, NLP, classical ML), plus technical write-ups and operational evaluation notes.
