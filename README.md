@@ -12,6 +12,8 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 
 ## Highlights (start here)
 
+- **Technical portfolio hub** — curated entry point that organizes the projects,
+  research, writing, and contact paths listed below: https://marcosgvjunior.github.io
 - **The Tavern's Ledger (full-stack software engineering MVP)** — A practical, full-stack cataloging system built to demonstrate the entire software engineering lifecycle. Features a RESTful API backend (Python/Flask) and a dynamic SPA frontend (vanilla JS/HTML/CSS), with a strong emphasis on documentation, high-coverage testing, CI/CD, and Docker containerization.
   - **Backend Repo:** https://github.com/marcosgvjunior/the-taverns-ledger-backend
   - **Frontend Repo:** https://github.com/marcosgvjunior/the-taverns-ledger-frontend
@@ -52,6 +54,12 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and p
 
 <details>
   <summary><b>Show Portfolio / Consulting</b></summary>
+
+- **Technical Portfolio Hub**
+  - Focus: Curates the strongest public evidence across software engineering, applied AI/ML, data workflows, research engineering, technical writing, and contact paths.
+  - Site: https://marcosgvjunior.github.io
+  - Role: A collection layer for the projects and repositories below, making the overall portfolio easier to scan and evaluate.
+  - Keywords: portfolio evidence, case studies, technical writing, applied AI, software engineering, research engineering.
 
 - **The Tavern's Ledger (full-stack software engineering MVP)**
   - Focus: Demonstrates a complete, end-to-end software development lifecycle, from initial requirements in a software engineering specialization to a deployed, two-part application. Emphasizes clean architecture, API design, CI/CD, and robust documentation.
