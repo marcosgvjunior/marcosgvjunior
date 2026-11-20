@@ -1,5 +1,7 @@
 # About Me 
 
+My professional account: https://github.com/formless-solutions
+
 I build end-to-end data and software systems to solve complex problems, from experimentation and modeling to automation, visualization, and production-minded software. My work emphasizes metric-driven evaluation of multimodal data, turning results into clear operational workflows.
 
 I’ve built reproducible pipelines across three applied tracks: (1) sensor-based measurements and uncertainty-driven analysis, (2) high-dimensional bioinformatics and single-cell RNA sequencing (scRNA-seq), using dimensionality reduction, clustering, and statistical validation, and (3) evaluation workflows for LLM (large language model) + RAG (retrieval-augmented generation) pipelines in HPC (high-performance computing) environments, running metrics-driven experiments and benchmarking configurations (chunking, embeddings, retrieval strategies). I received the Oswaldo Cruz Institute (IOC) Annual Thesis Prize (2025), and published peer-reviewed papers, including first-author work.
